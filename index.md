@@ -31,7 +31,7 @@ Visit our [API dashboard](https://kiri.travel/dev) to register or start working!
 
 ## Learn and Contribute to KIRI Source Code
 
-Further information will be provided later.
+Source code on KIRI websites are available on GitHub, under [`projectkiri` organization](https://github.com/projectkiri). Feel free to look around, submit and issue, or create a pull request.
 
 # Legal
 
