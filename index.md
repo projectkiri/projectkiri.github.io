@@ -8,7 +8,7 @@ KIRI’s role is very simple: you tell us where you are and where to go, and we 
 
 KIRI service is accessible through:
 
-* Our website: <https://kiri.travel>
+* Our website: <https://projectkiri.id>
 * Our official Android app [KIRI Smart Public Transport](https://play.google.com/store/apps/details?id=travel.kiri.smarttransportapp)
 * 3rd Party apps:
     - Android [Rute Angkot Bandung](https://play.google.com/store/apps/details?id=id.gits.angkot)
@@ -27,7 +27,7 @@ Watch [this funny 25 seconds video](https://www.youtube.com/watch?v=Vhh_GeBPOhs)
 Integrate KIRI into your app! Start developing by clicking one of these options:
 
 Visit [our wiki](https://github.com/projectkiri/Tirtayasa/wiki/KIRI-API-v2) for the API documentation.
-Visit our [API dashboard](https://kiri.travel/dev) to register or start working!
+Visit our [API dashboard](https://projectkiri.id/dev) to register or start working!
 
 ## Learn and Contribute to KIRI Source Code
 
